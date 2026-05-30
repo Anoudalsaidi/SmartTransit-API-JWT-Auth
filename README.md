@@ -1,49 +1,49 @@
+
 # 🚆 Smart Transit API
 
-## JWT Authentication System
-
-A simple and secure ASP.NET Core Web API for a Smart Transit system.  
-The project demonstrates JWT Authentication and Role-Based Authorization.
+![.NET](https://img.shields.io/badge/.NET-6.0-purple)
+![C#](https://img.shields.io/badge/C%23-Programming-blue)
+![JWT](https://img.shields.io/badge/JWT-Authentication-orange)
+![EF Core](https://img.shields.io/badge/Entity%20Framework-Core-green)
+![SQL Server](https://img.shields.io/badge/SQL-Server-red)
 
 ---
 
 ## 📌 Overview
 
-This project is built to handle user authentication for a transit system using JWT tokens.  
-It allows users to register, login, and access protected endpoints securely.
+A secure ASP.NET Core Web API for a Smart Transit system implementing JWT Authentication and Role-Based Authorization.
 
 ---
 
-## 🔧 Technologies Used
+## ✨ Key Features
 
-- ASP.NET Core Web API  
-- Entity Framework Core  
-- SQL Server  
-- JWT Authentication  
-- C#
-
----
-
-## 🚀 Features
-
-- User Registration  
-- User Login  
-- JWT Token Generation  
-- Protected API Endpoints  
-- Role-Based Authorization (User/Admin)
+✔ User Registration  
+✔ User Login  
+✔ JWT Token Authentication  
+✔ Protected API Endpoints  
+✔ Role-Based Authorization (User/Admin)
 
 ---
 
-## 🔐 Authentication Flow
+## 🎯 Highlights
 
-1. User registers an account  
-2. User logs in with email and password  
-3. Server generates JWT token  
-4. Token is used to access protected endpoints  
+✔ Real-world JWT Authentication  
+✔ Secure API Design  
+✔ Clean backend architecture  
+✔ Password hashing for security  
 
 ---
 
-## 📡 Example Login Response
+## 📌 Authentication Flow
+
+1. User registers account  
+2. User logs in  
+3. JWT token is generated  
+4. Token is used to access protected APIs  
+
+---
+
+## 🔐 Example Response
 
 ```json
 {
