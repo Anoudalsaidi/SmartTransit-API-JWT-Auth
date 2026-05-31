@@ -38,9 +38,6 @@ namespace SmartTransit.API
     };
 });
 
-            // Swagger / OpenAPI
-
-            //builder.Services.AddOpenApi();
 
             var app = builder.Build();
 
