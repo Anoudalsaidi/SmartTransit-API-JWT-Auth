@@ -42,6 +42,14 @@ A secure ASP.NET Core Web API for a Smart Transit system implementing JWT Authen
 4. Token is used to access protected APIs  
 
 ---
+## 🔐 API Endpoints
+### Authentication
+
+POST /api/auth/register
+
+POST /api/auth/login
+
+GET /api/auth/test
 
 ## 🔐 Example Response
 
@@ -49,3 +57,5 @@ A secure ASP.NET Core Web API for a Smart Transit system implementing JWT Authen
 {
   "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6..."
 }
+
+
