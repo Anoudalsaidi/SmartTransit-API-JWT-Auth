@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartTransit.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f11ebe98cc8c0f87970c5f025cddab6db5c37ff2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4d40c84e2423734be8cda42edb3b5931ac27e3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartTransit.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartTransit.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
