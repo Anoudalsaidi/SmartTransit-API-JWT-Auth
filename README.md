@@ -59,6 +59,11 @@ Program.cs
 6. Protected endpoints validate the token before granting access.
 
 ---
+### Database
+
+![Database](images/database.png)
+
+---
 
 ## 🔐 API Endpoints
 
