@@ -1,9 +1,9 @@
 # 🚆 Smart Transit API
-.NET 8
-C#
-SQL Server
-JWT
-License
+![.NET](https://img.shields.io/badge/.NET-8.0-purple)
+![C#](https://img.shields.io/badge/C%23-Language-blue)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
+![JWT](https://img.shields.io/badge/JWT-Authentication-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 > A secure ASP.NET Core Web API demonstrating **JWT Authentication & Authorization** using **ASP.NET Core, Entity Framework Core, and SQL Server**.
 
 ---
