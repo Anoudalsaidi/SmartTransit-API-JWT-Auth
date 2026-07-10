@@ -25,7 +25,15 @@ The project allows users to register, log in securely, receive JWT tokens, and a
 * 💾 SQL Server Integration with Entity Framework Core
 
 ---
+## Project Structure
 
+Controllers/
+Data/
+Models/
+DTOs/
+Services/
+Program.cs
+---
 ## 🎯 Highlights
 
 ✔ JWT Authentication & Authorization
