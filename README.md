@@ -1,5 +1,9 @@
 # 🚆 Smart Transit API
-
+.NET 8
+C#
+SQL Server
+JWT
+License
 > A secure ASP.NET Core Web API demonstrating **JWT Authentication & Authorization** using **ASP.NET Core, Entity Framework Core, and SQL Server**.
 
 ---
