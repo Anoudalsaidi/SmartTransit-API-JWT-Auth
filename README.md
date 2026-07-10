@@ -61,7 +61,7 @@ Program.cs
 ---
 ### Database
 
-![Database](images/database.png)
+![Database](https://github.com/Anoudalsaidi/SmartTransit-API-JWT-Auth/blob/master/ERD%20Diagram.png)
 
 ---
 
