@@ -47,19 +47,9 @@ SmartTransit.API
 ---
 
 ## 🗄️ Database
+https://github.com/Anoudalsaidi/SmartTransit-API-JWT-Auth/blob/master/ERD%20Diagram.png
 
-```markdown
-![Database](https://github.com/Anoudalsaidi/SmartTransit-API-JWT-Auth/blob/master/ERD%20Diagram.png)
 ```
-
----
-
-### Authorized Endpoint
-
-```markdown
-![Authorized](images/authorized.png)
-```
-
 ---
 
 ## 🎯 Highlights
