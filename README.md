@@ -67,6 +67,7 @@ SmartTransit.API
 
 ---
 
+
 ## 🔄 Authentication Flow
 
 1. User creates an account.
