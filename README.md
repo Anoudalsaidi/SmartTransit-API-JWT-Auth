@@ -54,7 +54,7 @@ SmartTransit.API
 
 ![ERD Diagram](https://github.com/Anoudalsaidi/SmartTransit-API-JWT-Auth/blob/master/ERD%20Diagram.png)
 
-```
+
 ---
 
 ## 🎯 Highlights
