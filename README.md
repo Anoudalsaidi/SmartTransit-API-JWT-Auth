@@ -48,33 +48,11 @@ SmartTransit.API
 
 ## 🗄️ Database
 
-> Insert your database diagram here.
-
 ```markdown
-![Database](images/database.png)
+![Database](https://github.com/Anoudalsaidi/SmartTransit-API-JWT-Auth/blob/master/ERD%20Diagram.png)
 ```
 
 ---
-
-## 📸 Screenshots
-
-### Swagger UI
-
-```markdown
-![Swagger](images/swagger.png)
-```
-
-### Register Endpoint
-
-```markdown
-![Register](images/register.png)
-```
-
-### Login Endpoint
-
-```markdown
-![Login](images/login.png)
-```
 
 ### Authorized Endpoint
 
